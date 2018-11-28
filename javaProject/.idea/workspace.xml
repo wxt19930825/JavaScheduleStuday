@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6194b77e-15bf-45f0-ad18-d9a0348dd321" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/javaProject$Demo__2_.ic" NAME="Demo (2) Coverage Results" MODIFIED="1542246358032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Semaphore.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="reflexExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reflexDemo/reflexExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="2" selection-start-line="2" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProxyDemo/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="SCOPE" value="Test" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/countDownLauch/Demo.java" />
+        <option value="$PROJECT_DIR$/src/threadLocal/Demo.java" />
+        <option value="$PROJECT_DIR$/src/ThreadPoolDemo/Demo.java" />
+        <option value="$PROJECT_DIR$/src/CyclicBarrier/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Semaphore/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Exchanger/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Future/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Future/Main.java" />
+        <option value="$PROJECT_DIR$/src/Future/Product.java" />
+        <option value="$PROJECT_DIR$/src/Future/Future.java" />
+        <option value="$PROJECT_DIR$/src/Future/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/ForkJoin/Demo.java" />
+        <option value="$PROJECT_DIR$/src/messageQueue/Demo.java" />
+        <option value="$PROJECT_DIR$/src/JoinMain.java" />
+        <option value="$PROJECT_DIR$/src/ThreadTest/TimeLock.java" />
+        <option value="$PROJECT_DIR$/src/ReentrantLockCondition.java" />
+        <option value="$PROJECT_DIR$/src/semapDemo.java" />
+        <option value="$PROJECT_DIR$/src/RejectThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/serverSocket.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ServerSocketDemo.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ClientSocketDemo.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ServerSocketobjectDemo.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ServerSocketObjectDemo.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ClientSocketObjectDemo.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/User.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ServerSocketThread.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ThreadMain.java" />
+        <option value="$PROJECT_DIR$/src/SocketProgramme/ClientSocketThread.java" />
+        <option value="$PROJECT_DIR$/src/reflexDemo/Demo.java" />
+        <option value="$PROJECT_DIR$/src/reflexDemo/Main.java" />
+        <option value="$PROJECT_DIR$/src/reflexDemo/reflexExample.java" />
+        <option value="$PROJECT_DIR$/src/ProxyDemo/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="8" />
+    <option name="y" value="42" />
+    <option name="width" value="1260" />
+    <option name="height" value="664" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ProxyDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="longadder&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;concur&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentLinkedQueue&#10;CountD&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java&#10;countdow&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
+    <property name="ToolWindowHierarchy.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SocketProgramme" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="ClientSocketObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SocketProgramme.ClientSocketObjectDemo" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SocketProgramme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProxyDemo.Main" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProxyDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflexDemo.Main" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflexDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SocketProgramme.ThreadMain" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SocketProgramme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="reflexExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflexDemo.reflexExample" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reflexDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientSocketObjectDemo" />
+      <item itemvalue="Application.ThreadMain" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.reflexExample" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.reflexExample" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ClientSocketObjectDemo" />
+        <item itemvalue="Application.ThreadMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6194b77e-15bf-45f0-ad18-d9a0348dd321" name="Default" comment="" />
+      <created>1542112536898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542112536898</updated>
+      <workItem from="1542112542065" duration="18443000" />
+      <workItem from="1542355791764" duration="707000" />
+      <workItem from="1542369646848" duration="3228000" />
+      <workItem from="1542511027511" duration="776000" />
+      <workItem from="1542588967022" duration="33000" />
+      <workItem from="1542614348355" duration="2005000" />
+      <workItem from="1542721291159" duration="2054000" />
+      <workItem from="1542975514164" duration="46000" />
+      <workItem from="1542975686475" duration="11312000" />
+      <workItem from="1543130244354" duration="8043000" />
+      <workItem from="1543230296369" duration="9008000" />
+      <workItem from="1543242187330" duration="3000" />
+      <workItem from="1543278870269" duration="691000" />
+      <workItem from="1543286486204" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57123000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="42" width="1260" height="664" extended-state="1" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.23174603" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="265" height="464" id="Documentation" order="4" side_tool="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32936507" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/ClassFactory.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/java.lang.ThreadLocal">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.ThreadLocal</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.ThreadLocal</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="63.0" y="15.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/countDownLauch/Demo.java" />
+    <entry file="uml://JAVA/sun.nio.ch.ThreadPool">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>sun.nio.ch.ThreadPool</OriginalElement>
+          <nodes>
+            <node x="" y="">sun.nio.ch.ThreadPool</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="15.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/corba/se/spi/orbutil/threadpool/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.Semaphore">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.Semaphore</OriginalElement>
+          <nodes>
+            <node x="0.0" y="80.0">java.util.concurrent.Semaphore</node>
+            <node x="102.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.Semaphore" target="java.io.Serializable">
+              <point x="0.0" y="-213.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="256.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.Semaphore</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.Exchanger">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.Exchanger</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.Exchanger</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="58.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Exchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="110" column="17" lean-forward="true" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="158" column="41" lean-forward="true" selection-start-line="158" selection-start-column="41" selection-end-line="158" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="716" selection-start-line="716" selection-end-line="716" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Semaphore/Demo.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyclicBarrier/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/Future/Product.java" />
+    <entry file="file://$PROJECT_DIR$/src/Future/ProductFactory.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-808">
+          <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.FutureTask">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.FutureTask</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.RunnableFuture</node>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">java.util.concurrent.Future</node>
+            <node x="" y="">java.util.concurrent.FutureTask</node>
+            <node x="" y="">java.lang.Runnable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="124.0" y="135.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="110" column="61" lean-forward="true" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Future/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/Future/Future.java" />
+    <entry file="file://$PROJECT_DIR$/src/Future/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ForkJoin/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exchanger/Demo.java" />
+    <entry file="uml://JAVA/java.util.concurrent.ConcurrentLinkedQueue">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.ConcurrentLinkedQueue</OriginalElement>
+          <nodes>
+            <node x="0.0" y="644.0">java.util.AbstractCollection</node>
+            <node x="138.02604166666669" y="146.0">java.util.Collection</node>
+            <node x="80.0" y="1076.0">java.util.AbstractQueue</node>
+            <node x="340.0" y="754.0">java.util.Queue</node>
+            <node x="150.52604166666669" y="0.0">java.lang.Iterable</node>
+            <node x="478.75" y="1131.0">java.io.Serializable</node>
+            <node x="276.4791666666667" y="1266.0">java.util.concurrent.ConcurrentLinkedQueue</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.AbstractQueue" target="java.util.AbstractCollection">
+              <point x="-80.0" y="-70.0" />
+              <point x="0.0" y="191.0" />
+            </edge>
+            <edge source="java.util.concurrent.ConcurrentLinkedQueue" target="java.util.Queue">
+              <point x="0.0" y="-246.0" />
+              <point x="436.4791666666667" y="1241.0" />
+              <point x="468.25" y="1241.0" />
+              <point x="42.75" y="81.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-224.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="java.util.concurrent.ConcurrentLinkedQueue" target="java.io.Serializable">
+              <point x="106.66666666666669" y="-246.0" />
+              <point x="543.1458333333334" y="1241.0" />
+              <point x="537.75" y="1241.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.Queue" target="java.util.Collection">
+              <point x="0.0" y="-81.0" />
+              <point x="425.5" y="619.0" />
+              <point x="378.0260416666667" y="619.0" />
+              <point x="80.0" y="224.0" />
+            </edge>
+            <edge source="java.util.concurrent.ConcurrentLinkedQueue" target="java.util.AbstractQueue">
+              <point x="-106.66666666666669" y="-246.0" />
+              <point x="329.8125" y="1241.0" />
+              <point x="240.0" y="1241.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-191.0" />
+              <point x="160.0" y="619.0" />
+              <point x="218.02604166666669" y="619.0" />
+              <point x="-80.0" y="224.0" />
+            </edge>
+            <edge source="java.util.AbstractQueue" target="java.util.Queue">
+              <point x="80.0" y="-70.0" />
+              <point x="320.0" y="1051.0" />
+              <point x="382.75" y="1051.0" />
+              <point x="-42.75" y="81.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-61.0" y="1462.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.ConcurrentLinkedQueue</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4110">
+          <caret line="327" column="47" selection-start-line="327" selection-start-column="47" selection-end-line="327" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.atomic.LongAdder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.atomic.LongAdder</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.concurrent.atomic.LongAdder</node>
+            <node x="" y="">java.util.concurrent.atomic.Striped64</node>
+            <node x="" y="">java.lang.Number</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="74.0" y="562.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/LongAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/messageQueue/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/threadLocal/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/JoinMain.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="540" column="49" selection-start-line="540" selection-start-column="49" selection-end-line="540" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTest/TimeLock.java" />
+    <entry file="file://$PROJECT_DIR$/src/ReentrantLockCondition.java" />
+    <entry file="file://$PROJECT_DIR$/src/semapDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/RejectThreadPoolDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding>
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ServerSocketObjectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ClientSocketObjectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ServerSocketThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ClientSocketThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ThreadMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ClientSocketDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflexDemo/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="304" column="61" lean-forward="true" selection-start-line="304" selection-start-column="61" selection-end-line="304" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflexDemo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ServerSocketDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflexDemo/reflexExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProxyDemo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
