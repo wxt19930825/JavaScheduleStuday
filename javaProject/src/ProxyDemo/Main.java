@@ -1,17 +1,26 @@
 package ProxyDemo;
 
+/**
+ * 代理模式一个接口
+ */
 interface Food{
     void eat();
 }
 
+/**
+ * 代理模式核心业务处理
+ */
 class RealFood  implements Food{
     @Override
     public void eat() {
-        System.out.println("黎明吃饭，吃的很香");
+        System.out.println("李明吃饭，吃的很香");
     }
 }
 
 
+/**
+ * 代理模式辅助业务操作
+ */
 class ProxyFood implements  Food{
     private Food food;
 

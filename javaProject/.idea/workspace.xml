@@ -16,27 +16,17 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reflexExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reflexDemo/reflexExample.java">
+    <leaf>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DesignPatternDemo/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="2" selection-start-line="2" selection-end-line="21" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ProxyDemo/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,6 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/countDownLauch/Demo.java" />
         <option value="$PROJECT_DIR$/src/threadLocal/Demo.java" />
         <option value="$PROJECT_DIR$/src/ThreadPoolDemo/Demo.java" />
@@ -95,7 +87,26 @@
         <option value="$PROJECT_DIR$/src/reflexDemo/Demo.java" />
         <option value="$PROJECT_DIR$/src/reflexDemo/Main.java" />
         <option value="$PROJECT_DIR$/src/reflexDemo/reflexExample.java" />
+        <option value="$PROJECT_DIR$/htmlFile/index.html" />
+        <option value="$PROJECT_DIR$/src/TomcatDemo/Server.java" />
+        <option value="$PROJECT_DIR$/src/TomcatDemoV1/Server.java" />
+        <option value="$PROJECT_DIR$/src/TomcatDemoV2/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/TomcatDemoV2/Server.java" />
+        <option value="$PROJECT_DIR$/src/TomcatDemoV2/Response.java" />
+        <option value="$PROJECT_DIR$/src/TomcatDemoV2/Request.java" />
         <option value="$PROJECT_DIR$/src/ProxyDemo/Main.java" />
+        <option value="$PROJECT_DIR$/src/ProxyDemo/MainDynmic.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/annotation/Controller.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/annotation/Service.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/annotation/RequestMapping.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/annotation/Qualifer.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/DongNaoService.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/MyService.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/DongNaoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/MyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/controller/DongNaoController.java" />
+        <option value="$PROJECT_DIR$/src/SprongMvcDemo/servlet/DispathcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatternDemo/Singleton.java" />
       </list>
     </option>
   </component>
@@ -109,17 +120,15 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="8" />
-    <option name="y" value="42" />
-    <option name="width" value="1260" />
-    <option name="height" value="664" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="704" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,21 +141,17 @@
               <item name="javaProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ProxyDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="longadder&#9;PSI&#9;JAVA://java.util.concurrent.atomic.LongAdder&#10;concur&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentLinkedQueue&#10;CountD&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java&#10;countdow&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="ToolWindowHierarchy.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -159,7 +164,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TomcatDemoV2" />
       <recent name="SocketProgramme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,17 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="ClientSocketObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SocketProgramme.ClientSocketObjectDemo" />
-      <module name="javaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SocketProgramme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.MainDynmic">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProxyDemo.Main" />
       <module name="javaProject" />
@@ -195,22 +194,32 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflexDemo.Main" />
+    <configuration name="MainDynmic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProxyDemo.MainDynmic" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reflexDemo.*" />
+          <option name="PATTERN" value="ProxyDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SocketProgramme.ThreadMain" />
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TomcatDemoV2.Server" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SocketProgramme.*" />
+          <option name="PATTERN" value="TomcatDemoV2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TomcatDemoV1.Server" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TomcatDemoV1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,19 +235,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.ClientSocketObjectDemo" />
-      <item itemvalue="Application.ThreadMain" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.reflexExample" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Server (1)" />
+      <item itemvalue="Application.MainDynmic" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDynmic" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.reflexExample" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ClientSocketObjectDemo" />
-        <item itemvalue="Application.ThreadMain" />
       </list>
     </recent_temporary>
   </component>
@@ -266,14 +275,20 @@
       <workItem from="1543242187330" duration="3000" />
       <workItem from="1543278870269" duration="691000" />
       <workItem from="1543286486204" duration="774000" />
+      <workItem from="1543369846327" duration="494000" />
+      <workItem from="1543451127392" duration="283000" />
+      <workItem from="1543456370438" duration="15034000" />
+      <workItem from="1543493802239" duration="324000" />
+      <workItem from="1543540701387" duration="2210000" />
+      <workItem from="1543587234893" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57123000" />
+    <option name="totallyTimeSpent" value="76053000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="42" width="1260" height="664" extended-state="1" />
+    <frame x="0" y="23" width="1280" height="704" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="7" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -283,28 +298,28 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.2613784" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.23174603" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.228125" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39921975" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="265" height="464" id="Documentation" order="4" side_tool="true" weight="0.32936507" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32936507" />
     </layout>
   </component>
@@ -316,163 +331,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/ClassFactory.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="uml://JAVA/java.lang.ThreadLocal">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.lang.ThreadLocal</OriginalElement>
-          <nodes>
-            <node x="" y="">java.lang.ThreadLocal</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="63.0" y="15.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/countDownLauch/Demo.java" />
-    <entry file="uml://JAVA/sun.nio.ch.ThreadPool">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>sun.nio.ch.ThreadPool</OriginalElement>
-          <nodes>
-            <node x="" y="">sun.nio.ch.ThreadPool</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="15.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/corba/se/spi/orbutil/threadpool/ThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-237">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.Semaphore">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.Semaphore</OriginalElement>
-          <nodes>
-            <node x="0.0" y="80.0">java.util.concurrent.Semaphore</node>
-            <node x="102.0" y="0.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.concurrent.Semaphore" target="java.io.Serializable">
-              <point x="0.0" y="-213.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="256.0" />
-          <SelectedNodes>
-            <node>java.util.concurrent.Semaphore</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.Exchanger">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.Exchanger</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.concurrent.Exchanger</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="58.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Exchanger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="110" column="17" lean-forward="true" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="158" column="41" lean-forward="true" selection-start-line="158" selection-start-column="41" selection-end-line="158" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="716" selection-start-line="716" selection-end-line="716" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Semaphore/Demo.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CyclicBarrier/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Future/Product.java" />
-    <entry file="file://$PROJECT_DIR$/src/Future/ProductFactory.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-808">
-          <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/java.util.concurrent.FutureTask">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -640,10 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
-          <folding>
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,13 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ServerSocketThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ClientSocketThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -679,13 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="58" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ClientSocketDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -707,18 +551,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ClientSocketDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ServerSocketDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="255">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocketProgramme/ServerSocketThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -726,19 +579,91 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="2" selection-start-line="2" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlFile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="304" column="15" selection-start-line="304" selection-start-column="15" selection-end-line="304" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TomcatDemoV1/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TomcatDemoV2/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="74" column="9" selection-start-line="69" selection-start-column="35" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TomcatDemoV2/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TomcatDemoV2/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TomcatDemoV2/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProxyDemo/MainDynmic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProxyDemo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/annotation/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/annotation/Service.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/annotation/RequestMapping.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/annotation/Qualifer.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/DongNaoService.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/MyService.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/MyServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/serviceImpl/DongNaoServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/servlet/DispathcherServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/SprongMvcDemo/controller/DongNaoController.java" />
+    <entry file="file://$PROJECT_DIR$/src/DesignPatternDemo/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
           </folding>
         </state>
       </provider>
